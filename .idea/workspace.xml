@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df1f035b-16ba-4dec-8fe1-72244777d4a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1XebGE8Fhi9eN1sBcRifSZatK3l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web/web1.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\2017210415\wifidog_server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\2017210415\wifidog_server\auth" />
+      <recent name="H:\2017210415\wifidog_server\login" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df1f035b-16ba-4dec-8fe1-72244777d4a1" name="Default Changelist" comment="" />
+      <created>1581409409201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581409409201</updated>
+      <workItem from="1581409412958" duration="5360000" />
+      <workItem from="1581417828791" duration="2507000" />
+      <workItem from="1581421155588" duration="1025000" />
+      <workItem from="1581422322946" duration="1641000" />
+      <workItem from="1581426326294" duration="5212000" />
+      <workItem from="1581434146193" duration="778000" />
+      <workItem from="1584856021350" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581410532309">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1581410532309" />
+    <state x="863" y="241" key="FileChooserDialogImpl" timestamp="1584856067669">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="863" y="241" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584856067669" />
+    <state x="599" y="340" key="NewPhpFileDialog" timestamp="1581431099330">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1581431099330" />
+    <state x="151" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584856020626">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="151" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1584856020626" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1581429270831">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581429270831" />
+  </component>
+</project>
